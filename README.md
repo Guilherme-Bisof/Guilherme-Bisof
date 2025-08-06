@@ -2,7 +2,7 @@
 
  **`Desenvolvedor Full-stack`**
 
- Me chamo Guilherme Matheus Gonçalves Bisof, tenhpp 19 anos e sou natural de Itatinga, Concluí o ensino médio na escola Inah Lopes. Atualmente, estou cursando Gestão de Tecnologia da Informação na Fatec Tatuí, Gosto muito de tecnologia desde criança.
+ Me chamo Guilherme Matheus Gonçalves Bisof, teno 19 anos e sou natural de Itatinga, Concluí o ensino médio na escola Inah Lopes. Atualmente, estou cursando Gestão de Tecnologia da Informação na Fatec Tatuí, Gosto muito de tecnologia desde criança.
 
  <p align="left">
     <a href="https://github.com/Guilherme-Bisof?tab=repositories&sort=stargazers">
