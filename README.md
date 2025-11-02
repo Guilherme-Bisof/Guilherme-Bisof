@@ -1,27 +1,27 @@
 # 🔥 Guilherme Bisof
 
- **`Desenvolvedor Full-stack`**
+ **`Full-stack developer`**
 
- Me chamo Guilherme Matheus Gonçalves Bisof, tenho 19 anos e sou natural de Itatinga, Concluí o ensino médio na escola Inah Lopes. Atualmente, estou cursando Gestão de Tecnologia da Informação na Fatec Tatuí, Gosto muito de tecnologia desde criança.
+ My name is Guilherme Matheus Gonçalves Bisof, I am 19 years old and I am from Itatinga. I completed high school at Inah Lopes school. Currently, I am studying Information Technology Management at Fatec Tatuí, and I have loved technology since I was a child.
 
  <p align="left">
     <a href="https://github.com/Guilherme-Bisof?tab=repositories&sort=stargazers">
         <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
+            alt="Total stars" 
+            title="GitHub Total Stars" 
             src="https://custom-icon-badges.demolab.com/github/stars/Guilherme-Bisof?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
     <a href="https://github.com/Guilherme-Bisof?tab=followers">
         <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
+            alt="Followers" 
+            title="Follow me on GitHub" 
             src="https://custom-icon-badges.demolab.com/github/followers/Guilherme-Bisof?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
  </p>
 
- ### 🤖 Linguagens e Tecnologias
+ ### 🤖Languages ​​and Technologies
 
  <img 
     align="left"
@@ -85,8 +85,7 @@
 <br/>
 <br/>
 
-### 📊 Estatísticas
-
+### 📊 Statistics
 
 <p>
     <img 
