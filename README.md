@@ -3,7 +3,7 @@
 🚀 **Junior Front-end Developer | JavaScript**  
 🇧🇷 Brazil
 
-I build **scalable products**, **SaaS platforms**, and **high-performance web systems**.  
+I build **scalable products**, **SaaS-oriented applications**, and **performance-focused web systems**.  
 I’m deeply focused on **architecture, performance, clean code, and business-driven solutions**.
 
 I also create content and share knowledge on **software development, SaaS, and tech entrepreneurship**.
@@ -13,11 +13,11 @@ I also create content and share knowledge on **software development, SaaS, and t
 
 ## 🧠 What I do
 
--   🏗️ SaaS & High-scale systems
--   ⚡ Performance optimization
--   🧩 Clean architecture & system design
--   🔐 Secure APIs & authentication
--   💳 Payments, subscriptions & business logic
+-   🏗️ SaaS & Product-oriented systems
+-   ⚡ Performance optimization & best practices
+-   🧩 Clean architecture principles
+-   🔐 APIs authentication & security fundamentals
+-   💳 Payments & subscriptions flows
 -   🤖 Automation & integrations
 
 ---
