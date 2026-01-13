@@ -1,24 +1,23 @@
 # Hi 👋, I'm Guilherme Bisof
 
-🚀 **Junior Front-end Developer | JavaScript**  
-🇧🇷 Brazil
+**🎓 Information Technology Management / Systems Development student**
+💻 Aspiring Full Stack Developer  
+🇧🇷 Brazil  
 
-I build **scalable products**, **SaaS-oriented applications**, and **performance-focused web systems**.  
-I’m deeply focused on **architecture, performance, clean code, and business-driven solutions**.
+I’m a student focused on learning and building practical software projects using JavaScript and modern web technologies.
 
-I also create content and share knowledge on **software development, SaaS, and tech entrepreneurship**.
+I enjoy developing applications that help me understand how systems work in practice, from frontend interfaces to backend logic.
 
 
 ---
 
-## 🧠 What I do
+### 🧠 What I’m learning and practicing
 
--   🏗️ SaaS & Product-oriented systems
--   ⚡ Performance optimization & best practices
--   🧩 Clean architecture principles
--   🔐 APIs authentication & security fundamentals
--   💳 Payments & subscriptions flows
--   🤖 Automation & integrations
+- Web development fundamentals
+- Frontend development with JavaScript and React
+- Backend basics with Node.js
+- Working with databases and APIs
+- Writing clean and organized code
 
 ---
 
@@ -26,23 +25,29 @@ I also create content and share knowledge on **software development, SaaS, and t
 
 ### Frontend
 
-![JavaScript](https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge&logo=javascript&logoColor=000)
-![ReactJS](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
-![Tailwind](https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwindcss)
-![Styled Components](https://img.shields.io/badge/Styled--Components-DB7093?style=for-the-badge&logo=styled-components)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
+[![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
+[![CSS](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff)](#)
+[![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#) (Learning)
 
 ### Backend
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql)
+[![Node.js](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)](#)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#)
+[![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)](#)
 
 ### DevOps & Tools
 
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma)
+[![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?logo=vercel&logoColor=white)](#)
+[![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#)
+[![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)](#)
+
+---
+###  Goals
+
+- Secure my first internship opportunity as a software developer  
+- Continue improving my technical skills through real projects  
+- Learn how professional development teams work  
 
 ---
 
@@ -55,3 +60,4 @@ I also create content and share knowledge on **software development, SaaS, and t
 
 ⭐ If you like my work, consider starring a repository  
 🤝 Always open to collaborations, partnerships, and cool ideas
+📌 I’m always open to learning, feedback, and new challenges.
